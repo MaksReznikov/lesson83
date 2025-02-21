@@ -37,7 +37,7 @@
     "Jenkins": {
     	"commandName": "Project",
     	"launchBrowser": true,
-    	"applicationUrl": "https://165.232.95.149:7235;http://165.232.95.149:5025",
+    	"applicationUrl": "https://165.232.95.149:443;http://165.232.95.149:80",
     	"environmentVariables": {
     		"ASPNETCORE_ENVIRONMENT": "Development"
     	}
